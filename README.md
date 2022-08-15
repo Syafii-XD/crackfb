@@ -22,6 +22,8 @@ pkg install play-audio
 
 pip install requests
 
+pip install cython
+
 pip install bs4
 
 pip install futures
@@ -36,5 +38,5 @@ cd crackfb
 
 git pull
 
-python fii.py
+python crackfb.py
 
