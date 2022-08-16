@@ -8,6 +8,8 @@
 
 * Github: Syafii-XD
 
+* kata kunci: gokilbang
+
 # TUTORIAL INSTALL BAHAN
 
 • Cara pasang
