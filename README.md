@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
 </details>
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<h3><b><i>🏆 Install Bahanya Gab :</i></b></h3>
 
 pkg update && pkg upgrade
 
