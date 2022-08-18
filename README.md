@@ -9,8 +9,6 @@
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-• Cara pasang
-
 pkg update && pkg upgrade
 
 pkg install python
